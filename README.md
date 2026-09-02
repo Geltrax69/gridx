@@ -2,6 +2,12 @@
 
 A real-time Java desktop simulation for energy grid management with dynamic market pricing, battery storage, and failure scenarios.
 
+## Screenshots
+
+![GridX Dashboard](screenshot.png)
+
+The dashboard shows a live view of the smart grid: city energy map with nodes (producers, consumers, batteries) connected by transmission lines, real-time generation/consumption/price metrics, market activity panel, failure injection controls, and an event log streaming simulation events.
+
 ## Features
 
 - **Energy Producers**: Solar farms, wind farms, backup generators with real-time output simulation
